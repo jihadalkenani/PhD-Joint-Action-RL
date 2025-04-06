@@ -1,4 +1,4 @@
-# Eng.Jihad ALKENANI 
+# Eng. Jihad ALKENANI 
 # Joint Action Reinforcement Learning with Human Variability
 
 This repository contains an implementation of a human-robot interaction system that models joint action reinforcement learning while accounting for both inter-personal variability (differences between humans) and intra-personal variability (changes within a single human over time).
